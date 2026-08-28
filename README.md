@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello there!
+I'm Dorian, a french high school student who develops some stuff here and there.
+I'm also the owner of Project Rosé and Project Sunshine, go check these projects out!
 
-<!--
-**dorian-osly/dorian-osly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What languages do you use?
+I mainly code in JS, EJS and web (HTML, CSS). I can also do a teeny tiny bit of C/C++
 
-Here are some ideas to get you started:
+I'm planning on learning Go and improve my C/C++!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What do you do?
+I mainly do frontend stuff, I did the website for Project Rosé, Proejct Sunshine and I made the internal moderation panel for Project Rosé.
+I like to make some lttle apps that are useful for certain purposes, go look at my repos :)
+
+The vast majority of what I do is for @Project-Rosé.
+
+
+## How can I contact you?
+There's multiple ways to contact me, but I prefer being contacted through Discord: @dorian.osly 
