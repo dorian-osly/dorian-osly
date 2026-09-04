@@ -10,6 +10,7 @@ I'm planning on learning Go and improve my C/C++!
 ## What do you do?
 I mainly do frontend stuff, I did the website for Project Rosé, Proejct Sunshine and I made the internal moderation panel for Project Rosé.
 I like to make some lttle apps that are useful for certain purposes, go look at my repos :)
+I also like to make useful Discord bots, maybe I'll publish them someday, who knows
 
 The vast majority of what I do is for @Project-Rosé.
 
