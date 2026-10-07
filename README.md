@@ -1,6 +1,5 @@
 # Hello there!
 I'm Dorian, a french high school student who develops some stuff here and there.
-I'm also the owner of Project Rosé and Project Sunshine, go check these projects out!
 
 ## What languages do you use?
 I mainly code in JS, EJS and web (HTML, CSS). I can also do a teeny tiny bit of C/C++
