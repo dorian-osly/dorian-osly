@@ -2,7 +2,7 @@
 I'm Dorian, a french high school student who develops some stuff here and there.
 
 ## What languages do you use?
-I mainly code in JS, EJS and web (HTML, CSS). I can also do a teeny tiny bit of C/C++
+I mainly code in Python, JS, TS, EJS and web (HTML, CSS). I can also do a teeny tiny bit of C/C++
 
 I'm planning on learning Go and improve my C/C++!
 
